@@ -1,4 +1,13 @@
-ummary
+
+ANERCorp / CAMeL Lab Train/Test Splits
+
+from Here:
+https://nyuad.nyu.edu/en/research/faculty-labs-and-projects/computational-approaches-to-modeling-language-lab/resources.html
+
+and Here:
+https://docs.google.com/forms/d/e/1FAIpQLSc4lNiI8eqjrsVQ0GBhgkctLCdLzBGshbdVWUogci3-wqnfoQ/viewform
+
+Summary
 
 Since its creation in 2008, the ANERcorp dataset (Benajiba & Rosso, 2008) has been a standard reference used by Arabic named entity recognition researchers around the world. However, over time, this dataset was copied over from user to user, modified slightly here and there, and split in many different configurations that made it hard to compare fairly across papers and systems.
 
@@ -44,11 +53,3 @@ If you use this corpus split, please cite (a) the original ANERcorp paper and (b
 
 //////////////////////////////////////////////////////////////////////
 
-
-ANERCorp / CAMeL Lab Train/Test Splits
-
-from Here:
-https://nyuad.nyu.edu/en/research/faculty-labs-and-projects/computational-approaches-to-modeling-language-lab/resources.html
-
-and Here:
-https://docs.google.com/forms/d/e/1FAIpQLSc4lNiI8eqjrsVQ0GBhgkctLCdLzBGshbdVWUogci3-wqnfoQ/viewform
